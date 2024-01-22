@@ -2,6 +2,10 @@
 
 This is a renew revision of OV2640 Camera Demonstration from ALINX.
 
+## If this project is constructive, welcome to donate a drink to PayPal.
+
+<img src="https://github.com/briansune/FPGA-Camera-MIPI-DVP-Verilog/assets/29487339/75ccc568-4f17-48a1-b2af-20211f98896c" style="height:20%; width:20%">
+
 A cheap and verified OV2640: <a href="https://item.taobao.com/item.htm?_u=g10quk0k2691&id=595937675865&spm=a1z09.2.0.0.98492e8dRmlnZd" target="_blank">Camera Supplier</a>
 
 <img src="https://github.com/briansune/Artix-7-Parallel-OV2640/assets/29487339/cc95b8ea-2ea2-4765-994f-8dd712df14e0" style="height:35%; width:35%">
