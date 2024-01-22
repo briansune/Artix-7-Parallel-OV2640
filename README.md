@@ -10,10 +10,15 @@ A cheap and verified OV2640: <a href="https://item.taobao.com/item.htm?_u=g10quk
 
 <img src="https://github.com/briansune/Artix-7-Parallel-OV2640/assets/29487339/e1d869c0-036b-4675-a65d-92e7a286f634" style="height:35%; width:35%">
 
+### This CMOS is compatible with ALINX hardware:
+
+The EVB uses 1.2V VCore, 2.8V DVDD, and 3V3 IO
+<img src="https://github.com/briansune/Artix-7-Parallel-OV2640/assets/29487339/55ea3856-4401-41e3-8004-e3147ffb4a8b" style="height:45%; width:45%">
 
 # Hardware Setup - OV2640 (EVB OV2640)
 
 <img src="https://github.com/briansune/Artix-7-Parallel-OV2640/assets/29487339/64573dd6-16ad-4446-82b1-8580c81f04a8" style="height:45%; width:45%">
+
 
 ## Preview XGA - 800x600
 
